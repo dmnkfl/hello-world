@@ -1,2 +1,4 @@
 # hello-world
-Kick off
+
+First footsteps in Git. Will be curious what the future brings.
+Cheers.
